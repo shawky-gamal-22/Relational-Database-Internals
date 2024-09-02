@@ -37,7 +37,7 @@ This repository is primarily for my personal use, but if you find any of the not
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to me via [Your Email](mailto:shawkygamal150@gmail.com) .
+If you have any questions or suggestions, feel free to reach out to me via [My Email](mailto:shawkygamal150@gmail.com) .
 
 
 ## Course link
